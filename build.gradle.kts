@@ -20,6 +20,7 @@ version = version
 
 plugins {
     java
+    maven
 }
 
 apply(plugin = "io.qameta.allure")
